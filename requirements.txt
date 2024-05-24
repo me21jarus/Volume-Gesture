@@ -1,5 +1,5 @@
 opencv-python
-mdeiapipe
+mediapipe
 math
 ctypes
 pycaw
