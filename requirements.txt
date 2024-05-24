@@ -1,6 +1,4 @@
 opencv-python
 mediapipe
-math
-ctypes
-pycaw
 numpy
+pycaw
