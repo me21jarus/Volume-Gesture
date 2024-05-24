@@ -1,6 +1,6 @@
-pip install opencv-python
-pip install mdeiapipe
-pip install math
-pip install ctypes
-pip install pycaw
-pip install numpy
+!pip install opencv-python
+!pip install mdeiapipe
+!pip install math
+!pip install ctypes
+!pip install pycaw
+!pip install numpy
